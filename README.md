@@ -7,7 +7,7 @@ This repository contains the (defunct) WebAssembly Studio website source code.
 Running your own local copy of the website
 ===
 
-To run a local copy, you will need to install node.js and webpack on your computer, then run the following commands:
+To run a local copy, you will need to install node.js (managed by nvm here, and locked to node@10) and webpack on your computer, then run the following commands:
 
 ```
 npm install
